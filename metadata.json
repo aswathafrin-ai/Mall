@@ -1,0 +1,6 @@
+{
+  "name": "The Grand Atrium Mall",
+  "description": "The premier luxury shopping, fine dining, IMAX cinema, and lifestyle destination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
